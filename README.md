@@ -15,9 +15,9 @@
 This advanced deep-learning iteration integrates a **Visual Transformer (ViT)** network—specifically the **Segment Anything Model**—to automate the tedious aspects of histological analysis. The tool is designed to be **unbiased, fast, and staining-independent**, supporting TTC, Nissl, and MAP2 datasets.
 
 ### Key Capabilities
-* **Automated Preprocessing:** Performs automatic Background Segmentation (BSG) and rotation correction.
-* **Deep Learning Segmentation:** Utilizes user-defined prompts to fine-tune a ViT for Hemisphere Separation and Stroke Detection (SSG).
-* **High Performance:** Processes images in approximately **2 seconds** with high segmentation accuracy (DICE coefficients up to 0.97 for BSG).
+* **Automated Preprocessing:** Performs automatic Background Segmentation (BSG).
+* **Deep Learning Segmentation:** Utilizes user-defined prompts to fine-tune a ViT for Stroke Segmentation (SSG).
+* **High Performance:** Processes images in under **1 second** with high segmentation accuracy (DICE coefficients up to 0.97 for BSG, up to 0.90 for SSG).
 * **Edema Correction:** Automatically calculates lesion volume and hemispheric ratios, correcting for cerebral edema using the midline shift method.
 
 ![Demo](demo1.png)
