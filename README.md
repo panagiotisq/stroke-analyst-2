@@ -2,7 +2,7 @@
 **Deep-Learning-Network Analysis of Stroke on Brain Sections**
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
-![PyTorch](https://img.shields.io/badge/PyTorch-MedSAM-EE4C2C.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-ViT-EE4C2C.svg)
 ![Status](https://img.shields.io/badge/Status-Under_Review-yellow.svg)
 ![Conference](https://img.shields.io/badge/ESOC-2026-blueviolet)
 
