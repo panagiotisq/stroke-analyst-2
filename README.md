@@ -26,7 +26,7 @@ This advanced deep-learning iteration integrates a **Visual Transformer (ViT)** 
 
 ## 🔬 Scientific Methodology
 
-### 1. The AI Model (ViT & MedSAM)
+### 1. The AI Model (ViT)
 Unlike traditional thresholding or hybrid ImageJ approaches which can be time-consuming or biased, SA2 employs a fine-tuned Visual Transformer (ViT). The model was trained and validated on a diverse dataset:
 * **Training:** 1200 Nissl-stained sections.
 * **Validation:** 77 sections across MAP2, Nissl, and TTC stainings.
@@ -41,7 +41,7 @@ The software utilizes a custom coordinate calibration based on the **Allen Mouse
 ---
 
 ## 🚀 Availability & Usage
-**The executable and source code will be released publicly in May 2026.**
+**The executable and source code will be released publicly in (around) May 2026.**
 
 Upon release, the application will require **no installation or coding knowledge**:
 1.  **Download** the generic executable.
@@ -57,7 +57,7 @@ StrokeAnalyst2/
 ├── stroke_analyst_2.py    # Main application logic
 ├── atlas_data/            # 509 calibrated atlas slices (CCFv3)
 ├── test_images/           # Sample TTC/Nissl data
-├── models/                # Fine-tuned ViT/MedSAM weights
+├── models/                # Fine-tuned ViT weights
 └── dist/                  # Compiled Executable (Coming Soon)
 
 ---
