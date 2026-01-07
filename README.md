@@ -12,7 +12,7 @@
 ## 📋 Overview
 **Stroke Analyst 2 (SA2)** is a standalone desktop application designed to streamline the quantification of ischemic stroke in rodent brain sections.
 
-Building on the machine-learning based "StrokeAnalyst-1", this advanced deep-learning iteration integrates a **Visual Transformer (ViT)** network—specifically the **Segment Anything Model**—to automate the tedious aspects of histological analysis. The tool is designed to be **unbiased, fast, and staining-independent**, supporting TTC, Nissl, and MAP2 datasets.
+This advanced deep-learning iteration integrates a **Visual Transformer (ViT)** network—specifically the **Segment Anything Model**—to automate the tedious aspects of histological analysis. The tool is designed to be **unbiased, fast, and staining-independent**, supporting TTC, Nissl, and MAP2 datasets.
 
 ### Key Capabilities
 * **Automated Preprocessing:** Performs automatic Background Segmentation (BSG) and rotation correction.
