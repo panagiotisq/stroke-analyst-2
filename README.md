@@ -3,11 +3,11 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ViT-EE4C2C.svg)
-![Status](https://img.shields.io/badge/Status-Under_Review-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Accepted_ESOC_2026-brightgreen.svg)
 ![Conference](https://img.shields.io/badge/ESOC-2026-blueviolet)
 
-> ⚠️ **Notice: Under Review**
-> The source code and executable for **Stroke Analyst 2** are currently under review for presentation at the **European Stroke Organisation Conference (ESOC) 2026**. The repository will be populated with the release version following the conference.
+> 📣 **Notice: Accepted for ESOC 2026**
+> We are pleased to announce that **Stroke Analyst 2** has been accepted for presentation at the **12th European Stroke Organisation Conference (ESOC 2026)** in Maastricht, Netherlands (May 6–8, 2026). The source code, executable, and documentation will be released in this repository following the conference.
 
 ## 📋 Overview
 **Stroke Analyst 2 (SA2)** is a standalone desktop application designed to streamline the quantification of ischemic stroke in rodent brain sections.
